@@ -1,4 +1,4 @@
-/* Add hover on nav menu */
+/* Add hover on navbar menu */
 .hover-link-underline a:hover {
     text-decoration: underline;
 }
