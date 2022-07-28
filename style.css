@@ -12,3 +12,9 @@
     object-position: center;
     filter: brightness(50%)
 }
+
+/* Optional parts CSS */
+/* Fontawesom star icon style */
+.fontawesome-sm-icons i {
+    font-size: 12px;
+}
