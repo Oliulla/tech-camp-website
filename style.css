@@ -9,4 +9,5 @@
     height: 80vh;
     object-fit: cover;
     object-position: center;
+    filter: brightness(50%)
 }
